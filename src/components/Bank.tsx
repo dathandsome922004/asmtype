@@ -68,7 +68,9 @@ const Bank = () => {
               <div className="flex gap-20 justify-center ">
                 <div className="relative flex ">
                   <div className="absolute top-10 left-0 text-white"></div>
+
                   <div>
+                    <h2 className="font-bold text-xl">Thông Tin Chuyến Đi</h2>
                     <h2 className="font-bold text-lg pt-7 text-[#484848]">
                       Hải Phòng Travel
                       <p>(Đất Cảng)</p>
